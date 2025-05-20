@@ -1,0 +1,25 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f6f3eb;
+    color: #242222;
+  
+}
+
+header {
+    background: #00281f;
+    color: white;
+    padding: 20px;
+    
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+    background: rgb(216, 218, 212);
+    margin: auto;
+}
+th, td {
+    border: 1px solid black;
+    padding: 20px;
+}
